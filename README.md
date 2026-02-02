@@ -1,4 +1,4 @@
-# Telcom Customer Churn SQL Analysis
+# Exploratory Data Analysis on Telecom Database
 
 ## Project Overview
 This project focuses on analyzing customer churn in a telecommunications company using SQL. The objective is to identify key factors that influence customer churn and provide actionable insights to improve customer retention. The analysis is performed using SQL queries within a Jupyter Notebook environment to extract and analyze data efficiently.
